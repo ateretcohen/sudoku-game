@@ -5,7 +5,7 @@ function openGame() {
     // debugger;
     setTimeout(() => {
         window.location.replace("index.html");
-    }, 2000);
+    }, 3000);
 }
 
 // במידה ואנו נמצאים על דף הפתיחה 
